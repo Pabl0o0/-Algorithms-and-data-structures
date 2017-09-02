@@ -1,0 +1,7 @@
+Dany jest plik tekstowy zawierający (zapisane wierszami) następujące dane o studentach: numer indeksu, nazwisko, imię, ocena z AiSD. W pierwszym wierszu pliku znajduje się tekst nagłówkowy. Zdefiniować odpowiednie klasy i metody realizujące następujące zadania:
+- wczytanie danych do ArrayList  w pamięci celem dalszego przetwarzania,
+- wyświetlenie (sformatowane) pełnej listy studentów ze wszystkimi danymi; wykorzystać iterator,
+- wpisanie studentowi o wskazanym numerze indeksu oceny z kursu,
+- wyliczenie i wyświetlenie średniej  z ocen pozytywnych,
+- wyświetlenie listy studentów, którzy nie zaliczyli kursu (ocena < 3),
+- zapis danych (z powrotem)  do pliku tekstowego.

@@ -1,0 +1,9 @@
+LISTA STUDENTÓW:
+Jak            Kowalski            123456      4,0    
+Jacek          Walek               654321      3,0    
+Urszula        Ponitka             785625      3,0    
+Pawe³          Szczeciñski         142536      3,5    
+Joanna         Nijak               786952      2,0    
+Przemys³aw     Nietaki             856321      5,5    
+Agnieszka      G³oœna              785891      2,0    
+
